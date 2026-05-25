@@ -12,6 +12,8 @@ I design and ship usable MVPs end-to-end: product UX, backend flows, integration
 | Lead Magnet Generator | AI lead magnet + opt-in funnel builder | Verified locally | Demo URL pending | [Code](https://github.com/rownap/lead-magnet-generator) |
 | Time Hero | AI productivity insights from work activity | Verified locally | Demo URL pending | [Code](https://github.com/rownap/time-hero) |
 | CarouselGen | AI-assisted social carousel generator | Verified locally | Demo URL pending | [Code](https://github.com/rownap/carousel-gen-2) |
+| LeadFlow | Lead generation and sales pipeline SaaS MVP | Verified locally | Demo URL pending | [Code](https://github.com/rownap/leadflow) |
+| Promptalo | Prompt marketplace MVP for founders and creators | Verified locally | Demo URL pending | [Code](https://github.com/rownap/promptalo) |
 | BioIT | Link-in-bio SaaS MVP (Supabase + Stripe) | Verified locally | Demo URL pending | [Code](https://github.com/rownap/bioit) |
 | AgentCanvas MVP | API-first media rendering platform | Verified locally | Demo URL pending | [Code](https://github.com/rownap/agent-canvas-mvp) |
 
