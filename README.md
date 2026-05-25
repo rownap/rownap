@@ -16,6 +16,7 @@ I design and ship usable MVPs end-to-end: product UX, backend flows, integration
 | Promptalo | Prompt marketplace MVP for founders and creators | Verified locally | Demo URL pending | [Code](https://github.com/rownap/promptalo) |
 | Receipt Radar | AI receipt extraction + CSV export for expense ops | Verified locally | Demo URL pending | [Code](https://github.com/rownap/receipt-radar) |
 | Meeting Transcriber Fast | Browser meeting transcription + AI post-call report | Verified locally | Demo URL pending | [Code](https://github.com/rownap/meeting-transcriber-fast) |
+| Polymarket Bot MVP | Paper-trading bot with backtesting and risk controls | Verified locally | Demo URL pending | [Code](https://github.com/rownap/polymarket-bot-mvp) |
 | BioIT | Link-in-bio SaaS MVP (Supabase + Stripe) | Verified locally | Demo URL pending | [Code](https://github.com/rownap/bioit) |
 | AgentCanvas MVP | API-first media rendering platform | Verified locally | Demo URL pending | [Code](https://github.com/rownap/agent-canvas-mvp) |
 
