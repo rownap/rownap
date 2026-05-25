@@ -26,8 +26,8 @@ The other public repositories are intentionally presented as verified MVPs until
 | **AgentCanvas** | Deploy a public web/API demo or attach the existing URL. |
 | **TimeHero** | Deploy a hosted demo with persistent database or attach the existing URL. |
 | **Lead Magnet Generator** | Deploy a hosted demo after choosing database/auth strategy or attach the existing URL. |
-| **CarouselGen** | Finish and publish after public-demo verification. |
-| **BioIT** | Audit, complete, and publish after local verification. |
+| **CarouselGen** | Private staging repo prepared; attach demo URL before making public. |
+| **BioIT** | Private staging repo prepared; connect Supabase/Stripe before making public. |
 
 ## Stack
 
