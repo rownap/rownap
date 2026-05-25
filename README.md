@@ -15,14 +15,6 @@ I design and ship usable MVPs end-to-end: product UX, backend flows, integration
 | BioIT | Link-in-bio SaaS MVP (Supabase + Stripe) | Verified locally | Demo URL pending | [Code](https://github.com/rownap/bioit) |
 | AgentCanvas MVP | API-first media rendering platform | Verified locally | Demo URL pending | [Code](https://github.com/rownap/agent-canvas-mvp) |
 
-## Public Legacy Repositories
-
-| Repo | Note |
-| --- | --- |
-| [hotel-posta-antgrvt](https://github.com/rownap/hotel-posta-antgrvt) | Legacy snapshot kept for traceability. |
-| [carousel-generator](https://github.com/rownap/carousel-generator) | Archived placeholder name. |
-| [carousel-generator_ok](https://github.com/rownap/carousel-generator_ok) | Archived placeholder name. |
-
 ## Verification Standard
 
 Projects listed as “Verified locally” have been re-validated from clean clone with install + lint/typecheck/build and API smoke tests where relevant.
