@@ -1,24 +1,32 @@
 # Roberto Ciccarelli
 
-Building AI products, automation tools, and vertical SaaS prototypes from idea to shipped demos.
+Founder-minded builder focused on AI products, vertical SaaS, and automation workflows.
 
-I focus on practical systems with clear workflows: hospitality operations, AI automation, content tools, and business intelligence.
+I design and ship usable MVPs end-to-end: product UX, backend flows, integrations, and deployment.
 
-## Public Projects
+## Featured Public Projects
 
-| Project | What it is | Status | Demo | Code |
+| Project | What it does | Status | Demo | Repo |
 | --- | --- | --- | --- | --- |
-| **GuestOS Hotel Posta** | Hotel PWA with AI concierge, bookings, gamification, admin tools, and revenue workflows. | **Live** | [Open demo](https://guestos-hotel-posta-gamma.vercel.app) | [Repo](https://github.com/rownap/guestos-hotel-posta) |
+| GuestOS Hotel Posta | Hotel guest app + admin/revenue workflows | Live | [Open](https://guestos-hotel-posta-gamma.vercel.app) | [Code](https://github.com/rownap/guestos-hotel-posta) |
+| Lead Magnet Generator | AI lead magnet + opt-in funnel builder | Verified locally | Demo URL pending | [Code](https://github.com/rownap/lead-magnet-generator) |
+| Time Hero | AI productivity insights from work activity | Verified locally | Demo URL pending | [Code](https://github.com/rownap/time-hero) |
+| CarouselGen | AI-assisted social carousel generator | Verified locally | Demo URL pending | [Code](https://github.com/rownap/carousel-gen-2) |
+| BioIT | Link-in-bio SaaS MVP (Supabase + Stripe) | Verified locally | Demo URL pending | [Code](https://github.com/rownap/bioit) |
+| AgentCanvas MVP | API-first media rendering platform | Verified locally | Demo URL pending | [Code](https://github.com/rownap/agent-canvas-mvp) |
 
-## Visibility Policy
+## Public Legacy Repositories
 
-Only ready projects are public.  
-Work-in-progress and staging repos stay private until quality checks and release criteria are met.
+| Repo | Note |
+| --- | --- |
+| [hotel-posta-antgrvt](https://github.com/rownap/hotel-posta-antgrvt) | Legacy snapshot kept for traceability. |
+| [carousel-generator](https://github.com/rownap/carousel-generator) | Archived placeholder name. |
+| [carousel-generator_ok](https://github.com/rownap/carousel-generator_ok) | Archived placeholder name. |
 
-## Private Build Queue
+## Verification Standard
 
-Current private projects in finalization: `AgentCanvas`, `TimeHero`, `Lead Magnet Generator`, `CarouselGen`, `BioIT`, and `RC Studio Suite`.
+Projects listed as “Verified locally” have been re-validated from clean clone with install + lint/typecheck/build and API smoke tests where relevant.
 
-## Stack
+## Private
 
-Next.js, TypeScript, React, Prisma, Supabase, Vercel, Fastify, Remotion, Satori, Tailwind, AI provider APIs, and automation-heavy product workflows.
+`rcstudio-suite` stays private by choice.
